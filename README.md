@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition
 
 **Goal**: Explore how to implement Gaussian Mixture Model (GMM) as a density estimator algorithm, as a classifier, and as a generative model.
+
 **Note**: This is my take-home final for my machine learning class MTH 4330.
 
 ## :mag_right: Data Sources: Scikit-learn datasets.
