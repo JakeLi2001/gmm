@@ -17,18 +17,18 @@
 2. Gaussian Mixture Model as a classifier.
 - Build GMM and assign components to a label.
 - Plot components and points along with their assigned labels.
-- Build for loop to find out the best number of components using accuracy as the criterion.
+- Build for loop to find the best number of components using accuracy as the criterion.
 3. Gaussian Mixture Model as a generative model.
 - Import the MNIST dataset from `sklearn.datasets.load_digits`.
 - Perform principal component analysis to reduce dimension.
 - Build GMM similar to part 2 and assign each components to a digit. 
 - Generate sample points from the GMM and use PCA to inverse transform the points back to the original dimension.
 - Plot those digits and see if they look like handwritten digits.
-- Test GMM performance by building another classification model and see if it can classify the genereated digits correctly.
+- Test GMM performance by building another classification model to see if it can correctly classify the generated digits.
 
 ## :dart: Results
 
-See [report](Final Report.docx).
+See [report](https://github.com/JakeLi2001/gmm/blob/main/Final%20Report.docx).
 
 ## :hammer_and_wrench: Tech Stack
 
